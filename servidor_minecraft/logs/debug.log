@@ -4684,4 +4684,14 @@ Server threadEx[13Jul2025 02:50:02.445] [Server thread/DEBUG] [FabricLoader/Mixi
 Server threadEx[13Jul2025 02:50:05.288] [Worker-Main-4/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2544$1
 Worker-Main-4Ex[13Jul2025 02:50:28.432] [Server thread/INFO] [net.minecraft.class_3244/]: noah_dubs lost connection: Disconnected
 Server threadEx[13Jul2025 02:50:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: noah_dubs left the game
+Server threadEx[13Jul2025 02:51:38.429] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+Server threadEx[13Jul2025 02:51:43.829] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+Server threadEx[13Jul2025 02:52:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+Server threadEx[13Jul2025 02:52:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+Server threadEx[13Jul2025 02:52:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+Server threadEx[13Jul2025 02:52:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+Server threadEx[13Jul2025 02:52:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+Server threadEx[13Jul2025 02:52:42.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+Server threadEx[13Jul2025 02:52:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+Server threadEx[13Jul2025 02:52:42.048] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[#23,JLine Shutdown Hook,5,main]
 Server threadEx
